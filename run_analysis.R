@@ -2,7 +2,7 @@
 
 ## Coursera Getting and Cleaning Data Course Project
 ## Jorge Antunes
-## 2015-06-17
+## 2015-06-18
 
 # runAnalysis.r File Description:
 
