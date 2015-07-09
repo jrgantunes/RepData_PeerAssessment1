@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting_and_Cleaning_data_CourseProject
 
 *REPO created in order to full-fill the course project assignment*
@@ -242,3 +243,6 @@ tidyData    = merge(tidyData,activityType,by='activityId',all.x=TRUE);
 // Export the tidyData set 
 
 write.table(tidyData, './/tidyData.txt',row.names=FALSE,sep='\t');
+=======
+# cp1
+>>>>>>> d123f5da23f952e3ef7a0ac9535caa8c9180f58b
